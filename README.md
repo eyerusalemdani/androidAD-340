@@ -1,6 +1,6 @@
 # This is a project android application  at North seattle college.
 
-HW2 UI Layout
+**HW2 UI Layout**
 
  Let's liven up your application with some more visual elements and interactivity on the main screen.
 
@@ -16,8 +16,8 @@ UI elements should be fully visible on a range of phone screen sizes.
 
 Text strings should be defined in a resource file separate from your layout elements.
 
-
-HW3 - Zombie Activities
+**
+HW3 - Zombie Activities**
 
 This week you've learned about the Activity lifecycle and using Intents to start activities.
 
@@ -34,7 +34,9 @@ Extra Credit
 
 Display movie image on the detail screen
 You can use this 3rd-party library to load images from a url - https://square.github.io/picasso/
-HW4 - LIve Cams
+
+ 
+**HW4 - Live Cams**
 
 This week you learned how Android applications can connect with other resources via a network. Let's use that knowledge to show Seattle-area traffic cameras in your application;
 
@@ -45,7 +47,7 @@ Your activity should check the device connectivity status and display a graceful
 Update one of the buttons on your main screen to launch this new activity when clicked
  
 
-HW5 - Location, Location, Location
+**HW5 - Location, Location, Location**
 
 This week you learned how to work with device location in Android.
 
